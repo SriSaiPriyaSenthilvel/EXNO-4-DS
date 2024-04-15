@@ -61,6 +61,8 @@ The feature selection techniques used are:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/44fe5b9e-b6d8-4f4c-9827-bac7e61546b9)
 
+# Feature Selection
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/95bb700a-7b3d-403d-a4a8-d4cc1ef3d442)
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/6ec0460d-c298-4236-a24d-41b7b9714060)
