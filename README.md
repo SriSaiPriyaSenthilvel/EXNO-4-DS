@@ -59,9 +59,9 @@ The feature selection techniques used are:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/0117a226-ebab-4815-a371-12d43431a271)
 
-![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/44fe5b9e-b6d8-4f4c-9827-bac7e61546b9)
-
 # Feature Selection
+
+![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/44fe5b9e-b6d8-4f4c-9827-bac7e61546b9)
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/95bb700a-7b3d-403d-a4a8-d4cc1ef3d442)
 
@@ -75,7 +75,7 @@ The feature selection techniques used are:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/ae785f6e-0098-47b7-891c-bebe87459307)
 
-![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/e42e31c0-f19f-44b6-b7c5-a6f9177cd389)
+![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/b1a987a5-17ac-4ce7-b1cf-b57b54141bd4)
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/EXNO-4-DS/assets/119475702/044e8001-40ce-4b87-a531-4f7edeacb3cb)
 
